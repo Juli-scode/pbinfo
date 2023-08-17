@@ -23,7 +23,7 @@ void info(int n,int a[][21])
     for(i=1;i<=2*n;i++)
         {for(j=1;j<=2*n;j++)
             cout<<a[i][j]<<" ";
-            cout<<endl;
+            cout<<endl<<endl;
             }
 }
 int main()
